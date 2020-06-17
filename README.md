@@ -1,2 +1,2 @@
-# Apna-Ghar-High-tech
+# Apna Ghar High tech
 Smart Ghar
